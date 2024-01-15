@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matheusnanipac
 - 👀 I'm interested in learning programming ...
-- 🌱 I’m currently learning Back-End programmer DataBase (SQL), Python language
+- 🌱 I’m currently learning Back-End programmer DataBase (SQL), Python language, PHP language
 - 📫 How to reach me Matheusniurd@gmail.com
 
 <!---
